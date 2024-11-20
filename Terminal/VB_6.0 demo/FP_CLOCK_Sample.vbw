@@ -1,0 +1,9 @@
+frmMain = 97, 19, 774, 799, C, 146, 125, 911, 874, C
+frmEnroll = 72, 36, 1036, 816, C, 126, 36, 970, 816, C
+frmLog = 56, 51, 1003, 831, C, 61, 61, 1014, 753, C
+frmSystemInfo = 84, 2, 1027, 709, C, 46, 206, 897, 986, C
+mdlPublic = 0, 0, 0, 0, C
+frmSerialNo = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmBellInfo = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmLockCtl = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmPassTime = 0, 0, 0, 0, C, 0, 0, 0, 0, C

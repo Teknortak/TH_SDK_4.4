@@ -1,0 +1,52 @@
+C:\Documents and Settings\Administrator\桌面\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\Documents and Settings\Administrator\桌面\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\Documents and Settings\Administrator\桌面\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\fp_server.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\fp_server_vs2010\fp_server\fp_server\bin\Debug\fp_server.exe
+C:\Documents and Settings\Administrator\桌面\fp_server_vs2010\fp_server\fp_server\bin\Debug\fp_server.pdb
+C:\Documents and Settings\Administrator\桌面\fp_server_vs2010\fp_server\fp_server\bin\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\Documents and Settings\Administrator\桌面\fp_server_vs2010\fp_server\fp_server\bin\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\Documents and Settings\Administrator\桌面\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\fp_server.Form1.resources
+C:\Documents and Settings\Administrator\桌面\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\fp_server.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\fp_server.exe
+C:\Documents and Settings\Administrator\桌面\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\fp_server.pdb
+C:\Documents and Settings\Administrator\桌面\TH-C#\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\Documents and Settings\Administrator\桌面\TH-C#\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\Documents and Settings\Administrator\桌面\TH-C#\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\fp_server.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\TH-C#\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\fp_server.exe
+C:\Documents and Settings\Administrator\桌面\TH-C#\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\fp_server.pdb
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\fp_server.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\fp_server.exe
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\fp_server.pdb
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_server_vs2010\fp_server\fp_server\bin\Debug\fp_server.exe
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_server_vs2010\fp_server\fp_server\bin\Debug\fp_server.pdb
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_server_vs2010\fp_server\fp_server\bin\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_server_vs2010\fp_server\fp_server\bin\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\fp_server.Form1.resources
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\fp_server.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\Interop.FPCLOCK_SVRLib.dll
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\AxInterop.FPCLOCK_SVRLib.dll
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\fp_server.csproj.ResolveComReference.cache
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\fp_server.exe
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_server_vs2010\fp_server\fp_server\obj\x86\Debug\fp_server.pdb
+C:\Users\GIGABYTE\Desktop\TH SDK 4.4\Realtime\fp_server_c# demo\fp_server\bin\Debug\fp_server.exe
+C:\Users\GIGABYTE\Desktop\TH SDK 4.4\Realtime\fp_server_c# demo\fp_server\bin\Debug\fp_server.pdb
+C:\Users\GIGABYTE\Desktop\TH SDK 4.4\Realtime\fp_server_c# demo\fp_server\bin\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\Users\GIGABYTE\Desktop\TH SDK 4.4\Realtime\fp_server_c# demo\fp_server\bin\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\Users\GIGABYTE\Desktop\TH SDK 4.4\Realtime\fp_server_c# demo\fp_server\obj\x86\Debug\fp_server.csprojResolveAssemblyReference.cache
+C:\Users\GIGABYTE\Desktop\TH SDK 4.4\Realtime\fp_server_c# demo\fp_server\obj\x86\Debug\Interop.FPCLOCK_SVRLib.dll
+C:\Users\GIGABYTE\Desktop\TH SDK 4.4\Realtime\fp_server_c# demo\fp_server\obj\x86\Debug\AxInterop.FPCLOCK_SVRLib.dll
+C:\Users\GIGABYTE\Desktop\TH SDK 4.4\Realtime\fp_server_c# demo\fp_server\obj\x86\Debug\fp_server.csproj.ResolveComReference.cache
+C:\Users\GIGABYTE\Desktop\TH SDK 4.4\Realtime\fp_server_c# demo\fp_server\obj\x86\Debug\fp_server.Form1.resources
+C:\Users\GIGABYTE\Desktop\TH SDK 4.4\Realtime\fp_server_c# demo\fp_server\obj\x86\Debug\fp_server.Properties.Resources.resources
+C:\Users\GIGABYTE\Desktop\TH SDK 4.4\Realtime\fp_server_c# demo\fp_server\obj\x86\Debug\fp_server.csproj.GenerateResource.Cache
+C:\Users\GIGABYTE\Desktop\TH SDK 4.4\Realtime\fp_server_c# demo\fp_server\obj\x86\Debug\fp_server.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\Desktop\TH SDK 4.4\Realtime\fp_server_c# demo\fp_server\obj\x86\Debug\fp_server.exe
+C:\Users\GIGABYTE\Desktop\TH SDK 4.4\Realtime\fp_server_c# demo\fp_server\obj\x86\Debug\fp_server.pdb

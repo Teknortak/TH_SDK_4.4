@@ -1,0 +1,15 @@
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Release\Interop.FP_CLOCKLib.dll
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Release\AxInterop.FP_CLOCKLib.dll
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Release\FP_CLOCK.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Release\FPClient.bellTimeSetting.resources
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Release\FPClient.DeviceInfo.resources
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Release\FPClient.EnrollDataManagement.resources
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Release\FPClient.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Release\FPClient.LockCtrl.resources
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Release\FPClient.LogManagement.resources
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Release\FP_CLOCK.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Release\FPClient.SetPassTime.resources
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Release\FPClient.SysInfo.resources
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Release\GenerateResource.write.1.tlog

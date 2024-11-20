@@ -1,0 +1,14 @@
+行 27: 控件 FKRealSvr 的类 FPCLOCK_SVRLib.FPCLOCK_Svr 不是一个已加载的控件类。
+行 106: 控件 gridLogView 的类 MSFlexGridLib.MSFlexGrid 不是一个已加载的控件类。
+行 33: 属性名 _Version 在 FKRealSvr 中是无效的。
+行 34: 属性名 _ExtentX 在 FKRealSvr 中是无效的。
+行 35: 属性名 _ExtentY 在 FKRealSvr 中是无效的。
+行 36: 属性名 _StockProps 在 FKRealSvr 中是无效的。
+行 112: 属性名 _ExtentX 在 gridLogView 中是无效的。
+行 113: 属性名 _ExtentY 在 gridLogView 中是无效的。
+行 114: 属性名 _Version 在 gridLogView 中是无效的。
+行 115: 属性名 Cols 在 gridLogView 中是无效的。
+行 116: 属性名 Redraw 在 gridLogView 中是无效的。
+行 117: 属性名 GridLines 在 gridLogView 中是无效的。
+行 118: 属性名 SelectionMode 在 gridLogView 中是无效的。
+行 119: 属性名 AllowUserResizing 在 gridLogView 中是无效的。

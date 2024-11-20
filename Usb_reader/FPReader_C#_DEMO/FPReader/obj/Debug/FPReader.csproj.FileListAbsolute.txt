@@ -1,0 +1,70 @@
+C:\Users\shixx\documents\visual studio 2013\Projects\FPReader\FPReader\bin\Debug\FPReader.exe.config
+C:\Users\shixx\documents\visual studio 2013\Projects\FPReader\FPReader\bin\Debug\FPReader.exe
+C:\Users\shixx\documents\visual studio 2013\Projects\FPReader\FPReader\bin\Debug\FPReader.pdb
+C:\Users\shixx\documents\visual studio 2013\Projects\FPReader\FPReader\bin\Debug\Interop.FPREADERLib.dll
+C:\Users\shixx\documents\visual studio 2013\Projects\FPReader\FPReader\bin\Debug\AxInterop.FPREADERLib.dll
+C:\Users\shixx\documents\visual studio 2013\Projects\FPReader\FPReader\obj\Debug\Interop.FPREADERLib.dll
+C:\Users\shixx\documents\visual studio 2013\Projects\FPReader\FPReader\obj\Debug\AxInterop.FPREADERLib.dll
+C:\Users\shixx\documents\visual studio 2013\Projects\FPReader\FPReader\obj\Debug\FPReader.csproj.ResolveComReference.cache
+C:\Users\shixx\documents\visual studio 2013\Projects\FPReader\FPReader\obj\Debug\FPReader.Form1.resources
+C:\Users\shixx\documents\visual studio 2013\Projects\FPReader\FPReader\obj\Debug\FPReader.Properties.Resources.resources
+C:\Users\shixx\documents\visual studio 2013\Projects\FPReader\FPReader\obj\Debug\FPReader.csproj.GenerateResource.Cache
+C:\Users\shixx\documents\visual studio 2013\Projects\FPReader\FPReader\obj\Debug\FPReader.exe
+C:\Users\shixx\documents\visual studio 2013\Projects\FPReader\FPReader\obj\Debug\FPReader.pdb
+C:\Users\shixx\documents\visual studio 2013\Projects\FPReader\FPReader\obj\Debug\FPReader.csprojResolveAssemblyReference.cache
+N:\FPReader_v2\FPReader\FPReader\bin\Debug\FPReader.exe.config
+N:\FPReader_v2\FPReader\FPReader\obj\Debug\Interop.FPREADERLib.dll
+N:\FPReader_v2\FPReader\FPReader\obj\Debug\AxInterop.FPREADERLib.dll
+N:\FPReader_v2\FPReader\FPReader\obj\Debug\FPReader.csproj.ResolveComReference.cache
+N:\FPReader_v2\FPReader\FPReader\obj\Debug\FPReader.exe
+N:\FPReader_v2\FPReader\FPReader\obj\Debug\FPReader.pdb
+N:\FPReader_v2\FPReader\FPReader\bin\Debug\FPReader.exe
+N:\FPReader_v2\FPReader\FPReader\bin\Debug\FPReader.pdb
+N:\FPReader_v2\FPReader\FPReader\bin\Debug\Interop.FPREADERLib.dll
+N:\FPReader_v2\FPReader\FPReader\bin\Debug\AxInterop.FPREADERLib.dll
+N:\FPReader_v2\FPReader\FPReader\obj\Debug\FPReader.csprojResolveAssemblyReference.cache
+N:\FPReader_v2\FPReader\FPReader\obj\Debug\FPReader.Form1.resources
+N:\FPReader_v2\FPReader\FPReader\obj\Debug\FPReader.Properties.Resources.resources
+N:\FPReader_v2\FPReader\FPReader\obj\Debug\FPReader.csproj.GenerateResource.Cache
+F:\FPReader_v2\FPReader\FPReader\bin\Debug\FPReader.exe.config
+F:\FPReader_v2\FPReader\FPReader\obj\Debug\Interop.FPREADERLib.dll
+F:\FPReader_v2\FPReader\FPReader\obj\Debug\AxInterop.FPREADERLib.dll
+F:\FPReader_v2\FPReader\FPReader\obj\Debug\FPReader.csproj.ResolveComReference.cache
+F:\FPReader_v2\FPReader\FPReader\obj\Debug\FPReader.exe
+F:\FPReader_v2\FPReader\FPReader\obj\Debug\FPReader.pdb
+F:\FPReader_v2\FPReader\FPReader\bin\Debug\FPReader.exe
+F:\FPReader_v2\FPReader\FPReader\bin\Debug\FPReader.pdb
+F:\FPReader_v2\FPReader\FPReader\bin\Debug\Interop.FPREADERLib.dll
+F:\FPReader_v2\FPReader\FPReader\bin\Debug\AxInterop.FPREADERLib.dll
+F:\FPReader_v2\FPReader\FPReader\obj\Debug\FPReader.csprojResolveAssemblyReference.cache
+F:\FPReader_v2\FPReader\FPReader\obj\Debug\FPReader.Form1.resources
+F:\FPReader_v2\FPReader\FPReader\obj\Debug\FPReader.Properties.Resources.resources
+F:\FPReader_v2\FPReader\FPReader\obj\Debug\FPReader.csproj.GenerateResource.Cache
+E:\ching\BR8220\FPREADER\FPReader\FPReader\bin\Debug\FPReader.exe.config
+E:\ching\BR8220\FPREADER\FPReader\FPReader\obj\Debug\Interop.FPREADERLib.dll
+E:\ching\BR8220\FPREADER\FPReader\FPReader\obj\Debug\AxInterop.FPREADERLib.dll
+E:\ching\BR8220\FPREADER\FPReader\FPReader\obj\Debug\FPReader.csproj.ResolveComReference.cache
+E:\ching\BR8220\FPREADER\FPReader\FPReader\obj\Debug\FPReader.exe
+E:\ching\BR8220\FPREADER\FPReader\FPReader\obj\Debug\FPReader.pdb
+E:\ching\BR8220\FPREADER\FPReader\FPReader\bin\Debug\FPReader.exe
+E:\ching\BR8220\FPREADER\FPReader\FPReader\bin\Debug\FPReader.pdb
+E:\ching\BR8220\FPREADER\FPReader\FPReader\bin\Debug\Interop.FPREADERLib.dll
+E:\ching\BR8220\FPREADER\FPReader\FPReader\bin\Debug\AxInterop.FPREADERLib.dll
+E:\ching\BR8220\FPREADER\FPReader\FPReader\obj\Debug\FPReader.csprojResolveAssemblyReference.cache
+E:\ching\BR8220\FPREADER\FPReader\FPReader\obj\Debug\FPReader.Form1.resources
+E:\ching\BR8220\FPREADER\FPReader\FPReader\obj\Debug\FPReader.Properties.Resources.resources
+E:\ching\BR8220\FPREADER\FPReader\FPReader\obj\Debug\FPReader.csproj.GenerateResource.Cache
+E:\ching\BR8220\FPREADER\FPReader_C#_DEMO\FPReader\bin\Debug\FPReader.exe.config
+E:\ching\BR8220\FPREADER\FPReader_C#_DEMO\FPReader\obj\Debug\Interop.FPREADERLib.dll
+E:\ching\BR8220\FPREADER\FPReader_C#_DEMO\FPReader\obj\Debug\AxInterop.FPREADERLib.dll
+E:\ching\BR8220\FPREADER\FPReader_C#_DEMO\FPReader\obj\Debug\FPReader.csproj.ResolveComReference.cache
+E:\ching\BR8220\FPREADER\FPReader_C#_DEMO\FPReader\obj\Debug\FPReader.exe
+E:\ching\BR8220\FPREADER\FPReader_C#_DEMO\FPReader\obj\Debug\FPReader.pdb
+E:\ching\BR8220\FPREADER\FPReader_C#_DEMO\FPReader\obj\Debug\FPReader.Form1.resources
+E:\ching\BR8220\FPREADER\FPReader_C#_DEMO\FPReader\obj\Debug\FPReader.Properties.Resources.resources
+E:\ching\BR8220\FPREADER\FPReader_C#_DEMO\FPReader\obj\Debug\FPReader.csproj.GenerateResource.Cache
+E:\ching\BR8220\FPREADER\FPReader_C#_DEMO\FPReader\bin\Debug\FPReader.exe
+E:\ching\BR8220\FPREADER\FPReader_C#_DEMO\FPReader\bin\Debug\FPReader.pdb
+E:\ching\BR8220\FPREADER\FPReader_C#_DEMO\FPReader\bin\Debug\Interop.FPREADERLib.dll
+E:\ching\BR8220\FPREADER\FPReader_C#_DEMO\FPReader\bin\Debug\AxInterop.FPREADERLib.dll
+E:\ching\BR8220\FPREADER\FPReader_C#_DEMO\FPReader\obj\Debug\FPReader.csprojResolveAssemblyReference.cache

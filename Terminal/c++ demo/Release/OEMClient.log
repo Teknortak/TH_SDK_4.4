@@ -1,0 +1,45 @@
+﻿生成启动时间为 2014-04-29 15:57:52。
+     1>项目“D:\win7我的文档-桌面-收藏夹\Desktop\TH主板DEMO_C++\FP_CLOCK_SAMPLE_v2\FP_CLOCK_SAMPLE_v2\OEMClient.vcxproj”在节点 2 上(build 个目标)。
+       项目文件包含 ToolsVersion="12.0" 设置，而此版本的 MSBuild 不支持该工具版本。该项目将视为包含 ToolsVersion="4.0" 设置。
+     1>InitializeBuildStatus:
+         正在创建“.\Release\OEMClient.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         e:\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _UNICODE /D UNICODE /D _AFXDLL /GF /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp".\Release\OEMClient.pch" /Fo".\Release\\" /Fd".\Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+         e:\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _UNICODE /D UNICODE /D _AFXDLL /GF /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Release\OEMClient.pch" /Fo".\Release\\" /Fd".\Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt BellSetting.cpp common.cpp DeviceSn.cpp Doorctrl.cpp EnrollManage.cpp fp_clockctrl1.cpp LogDataManage.cpp SetPasstime.cpp SysInfo.cpp OEMClient.cpp OEMClientDlg.cpp
+         BellSetting.cpp
+         common.cpp
+         DeviceSn.cpp
+         Doorctrl.cpp
+         EnrollManage.cpp
+     1>EnrollManage.cpp(16): warning C4995: “CDaoDatabase”: 名称被标记为 #pragma deprecated
+     1>EnrollManage.cpp(17): warning C4995: “CDaoRecordset”: 名称被标记为 #pragma deprecated
+     1>EnrollManage.cpp(837): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\Microsoft Visual Studio 10.0\VC\include\string.h(283) : 参见“wcscpy”的声明
+         fp_clockctrl1.cpp
+         LogDataManage.cpp
+     1>LogDataManage.cpp(195): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\Microsoft Visual Studio 10.0\VC\include\wchar.h(761) : 参见“_swprintf”的声明
+     1>LogDataManage.cpp(354): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\Microsoft Visual Studio 10.0\VC\include\wchar.h(761) : 参见“_swprintf”的声明
+     1>LogDataManage.cpp(540): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\Microsoft Visual Studio 10.0\VC\include\wchar.h(761) : 参见“_swprintf”的声明
+     1>LogDataManage.cpp(676): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\Microsoft Visual Studio 10.0\VC\include\wchar.h(761) : 参见“_swprintf”的声明
+     1>LogDataManage.cpp(848): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\Microsoft Visual Studio 10.0\VC\include\wchar.h(761) : 参见“_swprintf”的声明
+         SetPasstime.cpp
+         SysInfo.cpp
+         OEMClient.cpp
+         OEMClientDlg.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _VC80_UPGRADE=0x0600 /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /nologo /fo".\Release\OEMClient.res" OEMClient.rc 
+     1>OEMClient.rc(714): fatal error RC1015: cannot open include file 'res\OEMClient.rc2'.
+         
+     1>已完成生成项目“D:\win7我的文档-桌面-收藏夹\Desktop\TH主板DEMO_C++\FP_CLOCK_SAMPLE_v2\FP_CLOCK_SAMPLE_v2\OEMClient.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:11.79

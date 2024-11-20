@@ -1,0 +1,89 @@
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.Properties.Resources.resources
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+C:\Users\Claude\Documents\Visual Studio 2010\Projects\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.Properties.Resources.resources
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+F:\WORK\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csprojResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\fp_client_VS2010_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\FP_CLOCK.exe.config
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\Interop.FP_CLOCKLib.dll
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\AxInterop.FP_CLOCKLib.dll
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.ResolveComReference.cache
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.exe
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.pdb
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\FP_CLOCK.exe
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\FP_CLOCK.pdb
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\IPAddressControlLib.dll
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\IPAddressControlLib.pdb
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\Interop.FP_CLOCKLib.dll
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\bin\Debug\AxInterop.FP_CLOCKLib.dll
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csprojResolveAssemblyReference.cache
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.bellTimeSetting.resources
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.DeviceInfo.resources
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.EnrollDataManagement.resources
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.MainForm.resources
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.LockCtrl.resources
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.LogManagement.resources
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.Properties.Resources.resources
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.SetPassTime.resources
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FPClient.SysInfo.resources
+E:\ching\BR8220\OCX\TH_C#_SDK_v2.2\fp_client_VS2010\FP_CLOCK\FP_CLOCK\obj\x86\Debug\FP_CLOCK.csproj.GenerateResource.Cache
